@@ -2,4 +2,21 @@
     display: flex;
     align-items: center;
    margin: 0 200px;
+   padding: 0px 100px 262px 700px;
+   font-family: 'Work Sans';
+   font-style: normal;
+   font-weight: 300;
+   font-size: 50px;
+   text-align: right;
+}
+.p1{
+    display: flex;
+    align-items: center;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 100;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+
 }
