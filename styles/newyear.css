@@ -1,3 +1,18 @@
+.header{
+    background-image: url(../images/banner/banner1.png);
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+}
+.btn_primary{
+    background:orangered;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    color:  #FFFFFF;
+}
 .banner{
     display: flex;
     align-items: center;
