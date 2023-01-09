@@ -37,8 +37,9 @@ text-align: right;
 
 }
 
-.my-failure{
-    
+main{
+    max-width: 416px;
+    margin: 0 auto;
 }
 .section-title{
     
@@ -77,3 +78,71 @@ left: 862px;
 top: 1416px;
 color: #444343;
 }
+.image{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 943px;
+}
+.plans-title{
+    position: absolute;
+width: 179px;
+height: 47px;
+left: 711px;
+top: 1793.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+.plan{
+
+    margin-top: 130px;
+    align-items: flex-end;
+
+}
+
+.skills-container{
+ display: flex;
+ gap: 24px;
+ 
+}
+
+.skill-title{
+    font-weight: 700px;
+    font-size: 20px;
+}
+.last{
+    display: flex;
+    gap: 331px;
+    width: 1600px;
+    height: 577px;
+    background: #151414;
+}
+.design{
+    width: 485px;
+    height: 317px;
+    left: 230px;
+    top: 2782.26px;
+    padding-left: 130px ;
+}
+.mail{
+ color: #151414;
+}
+
+.lastp{
+
+    color: #FFFFFF;
+}
+.last-title{
+    color: #FFFFFF;
+    width: 325px;
+height: 204px;
+left: 1046px;
+top: 2782.26px;
+}
+
